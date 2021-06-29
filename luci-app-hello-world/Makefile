@@ -16,7 +16,7 @@ PKG_RELEASE:=1
 
 # Version == major.minor.patch
 # increase on new functionality (minor) or patches (patch)
-PKG_VERSION:=0.0.2
+PKG_VERSION:=0.0.3
 
 PKG_LICENSE:=Apache-2.0
 PKG_MAINTAINER:=Silver Kits <silver.kits@eesti.ee>
