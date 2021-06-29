@@ -26,7 +26,7 @@ define Package/luci-app-hello-world
 	CATEGORY:=LuCI
 	SUBMENU:=3. Applications
 	TITLE:= LuCI hello world app
-	DEPENDS:=+luci-mod-admin-full
+	DEPENDS:=+luci-compat
 	PKGARCH:=all
 endef
 
